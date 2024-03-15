@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#header{
+    background-color: #191970;
+    width: 100%;
+    position: fixed;
+    top: 0;
+}
+#logo{
+    text-align: center;
+    padding-top: 20px;
+    font-family: 'madimi one', 'tahoma';
+    font-size: 3vw;}
+    #menu{
+        width: 100%;
+        text-align: center;
+        padding: 20px 0;}
+    #menu li{
+        list-style-type: none;
+        display: inline;
+        cursor: pointer;
+        padding: 1%;}
+#menu li:hover{
+    padding-bottom: 0.4em;
+    border-bottom: 0.3em solid #00bfff;
+    font-weight: bold;
+}
+#content,#menu:font roboto
+        #content: img100%
+        content 0alto
+        ppagin tio 
+        
+       
+        #menu list-style: hover;#00bfff
+
+        ;
+    };
+
+}} 
